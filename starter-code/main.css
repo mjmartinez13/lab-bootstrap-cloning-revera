@@ -1,0 +1,150 @@
+
+.navbar-default {
+  margin-bottom: 0 !important;
+  height: 75px;
+
+}
+.navbar-header a {
+  font-size: 3rem;
+  text-transform: uppercase;
+  color: black !important;
+  font-weight: bold;
+}
+.carousel-inner img {
+  height: 600px !important;
+  width: 100%;
+  -webkit-filter: grayscale(100%);
+   -moz-filter: grayscale(100%);
+   -ms-filter: grayscale(100%);
+   filter: grayscale(100%);
+   filter: black;
+   opacity: 0.6;
+}
+.carousel-inner {
+  background-color: #000;
+}
+.carousel-inner p {
+  font-size: 1.7rem;
+}
+.navbar-header,
+.navbar-right li  {
+  margin-top: 10px;
+}
+
+.active {
+  color: red !important;
+}
+.first{
+  background-color: #ed564b;
+  text-align: center !important;
+  padding: 55px 0
+}
+.red-circle {
+  display: block;
+  text-align: center;
+  width: 50px;
+  padding: 12px;
+  height: auto;
+  outline: red;
+  border: 2px solid #ecf0f1;
+  border-radius: 50%;
+  color: #ecf0f1;
+
+}
+h1 {
+  padding: 20px;
+}
+.circle {
+  border: 1px solid white;
+  padding: 15px;
+  border-radius: 50%;
+  color: white;
+}
+h3 {
+  color: #ecf0f1 !important;
+}
+p  {
+  color: #ecf0f1;
+}
+.img-responsive {
+  margin-bottom: 20px;
+}
+.col-md-3 p {
+  color: #34495e;
+  text-align: center;
+  font-weight: 500;
+}
+
+h2 + p {
+  text-transform: uppercase;
+  color: #b7b8b7;
+  font-weight: 500;
+}
+.h2, h2 {
+    margin-top: 80px !important;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 2.5rem !important;
+  font-weight: 600 !important;
+}
+.article-row p {
+  text-align: left;
+  font-size: 1.2rem;
+}
+h4 {
+  text-transform: uppercase;
+  font-size: 1.2rem !important;
+  font-weight: 700 !important;
+}
+h4 + p {
+  text-transform: uppercase;
+}
+.article-row p:last-child {
+  margin-bottom: 80px;
+}
+.article-row p span {
+  color: red !important;
+}
+.footer-container {
+  background-color: #3b3b3b;
+  border-top: 2px solid red;
+  padding-bottom: 35px;
+}
+
+.footer-container h3 {
+  margin-top: 60px;
+  margin-bottom: 23px;
+  text-transform: uppercase;
+  font-size: 1.7rem;
+}
+.footer-container p,
+.footer-container a,
+.footer-container ul {
+  color: #aaa !important;
+  text-align: left;
+}
+.footer-container ul {
+  list-style: none;
+  padding-left: 0;
+}
+.footer-container li {
+  border-bottom:  1.5px dotted #aaa !important;
+  padding-bottom: 2px;
+}
+
+.copyright {
+  background-color: #292929;
+  padding: 18px 0 18px 0;
+  font-size: 1.2rem;
+}
+button {
+  background-color: transparent;
+  padding: 10px 25px 10px 25px;
+  border: 1px solid #ffffff;
+  margin: 20px 0 !important;
+  color: #ffffff;
+  text-transform: uppercase !important;
+  font-weight: 600 !important;
+}
